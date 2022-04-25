@@ -1,0 +1,10 @@
+#Q4
+n1=25
+n2='25'
+n3=25.0
+n2_int=int(n2)
+n3_int=int(n3)
+n4=n1+n2_int+n3_int
+n5=str(n4)
+print(n5)
+type(n5)
